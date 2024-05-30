@@ -1,0 +1,70 @@
+a:link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("imagen\ de\ fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.container {
+    background-image: url("tira.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #faf6f6;
+    padding: 5px;
+
+}
+img{
+    width: 250px; 
+    height: 150px;
+ }
+h1{
+    font-size: 55px;
+    font-family: "Poetsen One", sans-serif;
+}   
+h2{
+    font-size: 35px;
+    font-family: "IBM Plex Serif", serif;
+}
+h3{
+    font-size: 20px;
+    font-family: "IBM Plex Serif", serif;
+}
+h4{
+    font-size: 20px;
+    font-family: "IBM Plex Serif", serif;
+}
+h5{
+    font-size: 20px;
+    font-family: "IBM Plex Serif", serif;
+}
+h6{
+    font-size: 35px;
+    font-family: "IBM Plex Serif", serif;
+}
+
+
+.button{
+    background-color:#853084; 
+      border: 10px; 
+      border-radius: 10px;
+      padding: 15px 32px;
+      text-align: center;
+      color: rgb(0, 0, 0);
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .button2{
+        background-color:#ca193d; 
+          border: 10px; 
+          border-radius: 10px;
+          padding: 15px 32px;
+          text-align: center;
+          color: rgb(0, 0, 0);
+          font-size: 16px;
+          margin: 4px 2px;
+          cursor: pointer;
+        }
